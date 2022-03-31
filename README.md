@@ -2,13 +2,18 @@
 
 The name's **Andrew**, I make different kinds of things
 
-#### what languages I know (best to worst)
+#### what programming languages I know (best to worst)
 - kotlin *(also android and jetpack compose)*
 - c# *(also some godot)*
 - java
 - typescript *(with node.js)*
 - scala *(just a bit, can learn real quick)*
 - c++ *(same)*
+
+#### what real life languages I know
+- russian - native
+- english - b1-b2
+- czech - can read but not speak
 
 #### I also can do cool icons
 
