@@ -1,16 +1,7 @@
-### definitely a someone ~~(and the profile is definitely wip)~~
+### definitely a someone
 
-The name's **Andrew**, I make different kinds of things
+the name's Andrew
 
-#### what programming languages I know (best to worst)
-- kotlin *(also android and jetpack compose)*
-- c# *(also some godot)*
-- java
-- dart *(flutter)*
-- typescript *(with node.js)*
-- scala *(just a bit, can learn real quick)*
-- c++ *(same)*
+making a variety of different things
 
-#### what real life languages I know
-- russian - native
-- english - b1-b2
+mostly games and android apps
